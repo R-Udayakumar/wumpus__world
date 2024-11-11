@@ -32,7 +32,7 @@ It is assumed that there will always be a safe path that the agent can take to e
 
 <h3>Program : </h3>
 
-```
+```python
 wumpus=[["Save","Breeze","PIT","Breeze"],
         ["Smell","Save","Breeze","Save"],
         ["WUMPUS","GOLD","PIT","Breeze"],
